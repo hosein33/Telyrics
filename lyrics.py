@@ -6,6 +6,7 @@ import math
 import telepot
 import telepot.helper
 import spotipy
+import goslate
 import urllib.request, urllib.error, urllib.parse
 from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 from telepot.delegate import (
